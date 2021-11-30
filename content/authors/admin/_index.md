@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: EunSeon Ahn
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,7 +10,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
+- name: University of Michigan
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
